@@ -4,4 +4,4 @@ The repository is a part of the IBM Data Science Capstone project. The project i
 
 The first map contains the visualization of the various neighbourhoods in Canada whose borough has the word Toronto.
 
-![Screenshot](Map1.jpg)
+!(Map1.jpg)
